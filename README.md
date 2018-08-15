@@ -4,7 +4,7 @@
 - UI包括滚动监听，标题锚点，目录的层级展开与缩回
 - 可以使用预设的CSS(使用```position:absolue```，定位自设)
 ## 样例
-![](https://img-blog.csdn.net/20180806012514977?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTIzMTI3MDU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![img](https://github.com/xxx407410849/AutoCatelog/blob/master/dist/md/20180806012514977.gif)
 ## Blog
 关于这个插件和UI实现的想法，已在 ![作者CSDN博客](https://blog.csdn.net/u012312705/article/details/81437727) 中详细描述
 ## 使用方式
