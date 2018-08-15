@@ -1,0 +1,31 @@
+.catelog-ctn{
+	position: absolute;
+	list-style: none;
+	text-decoration: none;
+	background-color: #F6F6F6;
+	text-align: center;
+	padding: 20px 20px;
+}
+.catelog-ctn p{
+	font-size: 15px;
+}
+.catelog-ctn li{
+	list-style: none;
+	font-size: 14px;
+	font-weight: 100;
+	line-height: 2;
+	padding: 0;
+	margin: 0;
+	font-family: "segoe UI light,arial, helvetica, sans-serif,微软雅黑";
+	cursor: pointer;
+}
+.catelog-ctn li:hover{
+	border-bottom: 1px dashed #000000;
+}
+.catelog-ctn ul{
+	padding: 0;
+}
+.active{
+	color: #985F0D;
+	border-bottom: 1px dashed #000000;
+}
