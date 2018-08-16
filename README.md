@@ -12,7 +12,7 @@
 - 若无jq，则使用dist目录下的main.js
 - 使用方法可参照demo.html
  ```
-    // 你的目录容器
+    // 你的目录容器,为空时请自行在html中创建类名为(catelog-ctn)的容器以调用css，(类名绑定的CSS)
     let catelogCtn = document.getElementsByClassName('catelog-ctn');
     // 你所添加文章的最近父元素
     let articleCtn = document.getElementsByClassName('article-ctn');
